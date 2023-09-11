@@ -9,7 +9,7 @@ body {
 
 .button-container {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: flex-start;
     margin: 20px;
     padding: 0 20px;
@@ -31,6 +31,8 @@ body {
     color: #d0b998;
     font-family: "Lumanosimo", serif;
     font-weight: bolder;
+    font-size: 25;
+    margin-top: -20;
 }
 
 .form-inline {
@@ -50,6 +52,7 @@ body {
     margin: 4px 2px;
     transition-duration: 0.4s;
     cursor: pointer;
+    width: 150;
 }
 
 .Menu {

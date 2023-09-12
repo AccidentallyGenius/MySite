@@ -15,6 +15,12 @@ body {
     padding: 0 20px;
 }
 
+.header {
+    background-image: url("Cafe.jpg");
+    background-size: 100%;
+    background-position: center;
+    padding: 20px;
+}
 
 
 .h1 {
@@ -31,8 +37,8 @@ body {
     color: #d0b998;
     font-family: "Lumanosimo", serif;
     font-weight: bolder;
-    font-size: 25;
-    margin-top: -20;
+    font-size: 25px;
+    margin-top: -20px;
 }
 
 .form-inline {
@@ -52,7 +58,7 @@ body {
     margin: 4px 2px;
     transition-duration: 0.4s;
     cursor: pointer;
-    width: 150;
+    width: 150px;
 }
 
 .Menu {
